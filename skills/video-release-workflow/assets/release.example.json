@@ -1,0 +1,13 @@
+{
+  "work_id": null,
+  "title": null,
+  "tags": [],
+  "video": null,
+  "covers": {"portrait": null, "landscape": null},
+  "subtitles": null,
+  "script": null,
+  "checks_file": null,
+  "packaging_confirmed": false,
+  "requested_platforms": [],
+  "note": "路径相对本 JSON 文件；待用户提供与确认，不含账号秘密"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "profile_status": "awaiting_user_confirmation",
+  "audience": null,
+  "business_or_goal": null,
+  "voice": "自然、通俗，保留本人观点，不编经历",
+  "shooting_mode": "outline_or_full_script",
+  "video_ratio": "preserve_source_unless_requested",
+  "captions": {
+    "enabled": true,
+    "existing_burned_captions": "inspect_first",
+    "single_line": true,
+    "suggested_max_chars": 12,
+    "x": 0.5,
+    "y": 0.75,
+    "font_name": null,
+    "font_license": "verify_locally"
+  },
+  "visual_style": "ask_once_if_materially_new",
+  "sound_effects": "sparse_semantic_cues_below_voice",
+  "background_music": false,
+  "cover_sizes_suggestion": [[1080, 1440], [1440, 1080]],
+  "platforms_requested": [],
+  "accounts": {},
+  "original_declaration": "only_when_eligible_and_requested",
+  "extra_caption": false,
+  "prediction": "optional_before_publication_only"
+}

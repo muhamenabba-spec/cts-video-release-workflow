@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-release-workflow"
+  short_description: "从口播文案到剪辑、双封面、标题话题和四平台上传确认的完整发布包"
+  default_prompt: "用 $video-release-workflow 处理这条视频，从当前阶段继续，制作可检查的完整发布包，上传检查后等我确认发布。"
